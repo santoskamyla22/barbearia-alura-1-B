@@ -1,5 +1,6 @@
 h1 {
     text-align:center;
+    color: black;
    }
 
 p {
@@ -7,5 +8,9 @@ p {
 }
 
 body {  
-    background: #cccccc; 
+    background: #8b0000;
+}
+
+em strong {
+    color: cyan;
 }
